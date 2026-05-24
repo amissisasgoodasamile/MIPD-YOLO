@@ -10,9 +10,9 @@ MIPD-YOLO is built upon YOLOv11n and introduces task-oriented improvements for:
 
 ## Availability
 
-The source code, model configuration files, and trained weights will be released upon acceptance/publication of the manuscript.
+The source code, model configuration files, and weights trained on public datasets will be released upon manuscript acceptance or publication.
 
-During peer review, verification materials may be provided to editors or reviewers upon reasonable request.
+Due to industrial confidentiality and intellectual property concerns, the self‑built quartz crucible dataset and model weights trained on this private industrial dataset will not be publicly available.
 
 ## Dataset
 
